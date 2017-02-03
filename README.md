@@ -1,3 +1,4 @@
+#NOT YET AVAILABLE TO CHAPTERS
 #Girls Learning Code: Programming with Ruby
 
 ##Quick Links
