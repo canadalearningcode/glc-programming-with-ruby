@@ -32,10 +32,9 @@ Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-do
 
 * Update the slides (in a text editor, like <a href="https://atom.io/">atom.io</a>):
     * Insert the network info and bit.ly link to the Scratch class (Slide 1)
-    * Edit the facilitator info with your photo and details (Slide 2 and 38)
     * Edit the Agenda to adjust timing and/or activities, if applicable (Slide 5)
     * Add the chosen Work Session activity name and gif in the opening slide (Slide 10)
-    * Paste the Work Session activity STEPS (Slide 35) and Solution (Slide 36)
+    * Paste the Work Session activity STEPS (Slide 35-36) and Solution (Slide 37)
 
 1 Day to Go
 
