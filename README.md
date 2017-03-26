@@ -1,7 +1,7 @@
-#NOT YET AVAILABLE TO CHAPTERS
-#Girls Learning Code: Programming with Ruby
+# NOT YET AVAILABLE TO CHAPTERS
+# Girls Learning Code: Programming with Ruby
 
-##Quick Links
+## Quick Links
 
 Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/glc-programming-with-ruby/facilitator-guide.html">ladieslearningcode.github.io/glc-programming-with-ruby/facilitator-guide.html</a>
 
@@ -16,7 +16,7 @@ Unplugged Activities: <a href="http://bit.ly/unplugged-activities-doc">bit.ly/un
 Youth Facilitator Handbook: <a href="http://bit.ly/youth-facilitator-handbook-doc">bit.ly/youth-facilitator-handbook-doc</a>
 
 
-#HOW TO USE:
+# HOW TO USE:
 ## Before the Workshop
 1 Week to Go
 
