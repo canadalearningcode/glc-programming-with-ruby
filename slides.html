@@ -44,17 +44,15 @@
     <section class="slide intro">
       <img class="logo" src="framework/img/glc-logo-white.png" alt="Ladies Learning Code logo">
       <h1 class="heading-bg">
-        <span>Intro to Coding:<br>
-        Programming with Ruby</span>
+        <span>Intro to Programming<br>
+        with Ruby</span>
       </h1>
 
-      <!-- FILL IN INSTRUCTOR DETAILS -->
-      <img class="instructor" src="http://placehold.it/225x225" alt="Instructor Name">
-      <h2><span class="cursive">with</span> Instructor name</h2>
+      <!-- <img class="instructor" src="http://placehold.it/225x225" alt="Instructor Name"> -->
+      <!--<h2><span class="cursive">with</span>Girls Learning Code</h2>-->
       <ul>
-        <li><a href="mailto:">hello@email.com</a></li>
-        <li><a href="http://website.com">website.com</a></li>
-        <li><a href="http://twitter.com/">@twitter</a></li>
+        <li><a href="http://twitter.com/learningcode">@learningcode</a></li>
+        <li><a href="https://twitter.com/search?q=%23girlslearningcode&src=typd">#girlslearningcode</a></li>
       </ul>
 
       <div class="sponsor">
@@ -105,7 +103,7 @@
 
         Break
 
-        [Insert Activity]
+        Choose-Your-Own-Adventure <!--Insert activity name here-->
 
       </script>
     </section>
@@ -142,16 +140,16 @@
     <section class="slide title" data-markdown>
       <script type="text/template">
         # Today's Project
-        ## We're learning how to create programs using Ruby
+        ## We're learning how to create games and puzzles using Ruby
       </script>
     </section>
 
     <section class="slide centered" data-markdown>
       <script type="text/template">
-        #Activity Name
+        #Choose-Your-Own-Adventure <!--Insert activity name here-->
 
           ![http://giphy.com/gifs/happy-celebration-yay-9EVZWCxypKQxi](framework/img/workshop/adventure-time.gif)
-
+          <!--replace gif as needed-->
           <br>
 
           ---
@@ -466,7 +464,7 @@
           #Put result here
         elsif  #Create condition 2
           #Put result here
-        else  
+        else
           #Put result here
         end
         ```
@@ -599,26 +597,40 @@
 
     <section class="slide" data-markdown>
       <script type="text/template">
-        #Project Title
-        ##Description
+        #Choose-Your-Own-Adventure <!--insert activity title here-->
+        ##Create an interactive story where the user chooses how to respond, and their decisions affect what happens in the story
+        <!--replace activity description as needed-->
 
-        STEPS:
-
-        * Instructions
-        * Instructions
+        ![mind map](framework/img/workshop/mindmap.jpg)<!--replace image as needed-->
 
       </script>
     </section>
 
     <section class="slide" data-markdown>
       <script type="text/template">
-        #Project Title
-        ##Possible Solution
+        #Choose-Your-Own-Adventure<!--insert activity title here-->
+        STEPS:<!--insert steps below-->
 
-        ```ruby
-        #Paste solution here
-        ```
+        * Set up the story! Use ```puts "String"``` (add a pause with ```sleep 2```)
+        * Ask a question with two options: A or B
+        * Get the answer
+        * Create an IF, ELSIF statement:
+          * ```if choice == "A"``` or ```if choice.include? "A"```
+          * Make something happen if they choose A
+          * Create an ```elsif``` condition if they choose B
+          * Make something happen if they choose B
+        * Under each condition, ask another question and repeat these steps!
 
+
+      </script>
+    </section>
+
+    <section class="slide" data-markdown>
+      <script type="text/template">
+        #Possible Solution
+
+        Example: <a href="https://repl.it/F6uN/7">https://repl.it/F6uN/7</a>
+        <!--link to possible solution above-->
       </script>
     </section>
 
@@ -642,15 +654,14 @@
     <section class="slide last">
       <h1>Thank you!</h1>
       <h2 class="heading-bg">
-        <span> Intro to Coding:<br>Programming with Ruby</span>
+        <span> Intro to Programming<br> with Ruby</span>
       </h2>
 
-      <img class="instructor" src= "http://placehold.it/225x225" alt="Name">
-      <h2><span class="cursive">with</span> Instructor</h2>
+      <!-- <img class="instructor" src="http://placehold.it/225x225" alt="Instructor Name"> -->
+      <!--<h2><span class="cursive">with</span>Girls Learning Code</h2>-->
       <ul>
-        <li><a href="mailto:">hello@email.com</a></li>
-        <li><a href="link">personalsite.io</a></li>
-        <li><a href="https://twitter.com/">@twitterhandle</a></li>
+        <li><a href="http://twitter.com/learningcode">@learningcode</a></li>
+        <li><a href="https://twitter.com/search?q=%23girlslearningcode&src=typd">#girlslearningcode</a></li>
       </ul>
 
       <p class="attribution">Slide presentation created by <a href="http://christinatruong.com">Christina Truong</a> based on <a href="https://github.com/LeaVerou/csss">Lea Verou's SlideShow</a> and <a href="http://lab.hakim.se/reveal-js/">reveal.js</a>.</p>
