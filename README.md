@@ -9,7 +9,7 @@ Preview Slides: <a href="https://ladieslearningcode.github.io/glc-programming-wi
 
 Activity List: <a href="http://bit.ly/ruby-activity-list">bit.ly/ruby-activity-list</a>
 
-##Additional Resources (Optional)
+## Additional Resources (Optional)
 
 Unplugged Activities: <a href="http://bit.ly/unplugged-activities-doc">bit.ly/unplugged-activities-doc</a>
 
