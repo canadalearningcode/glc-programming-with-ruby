@@ -61,7 +61,7 @@ Email questions & comments to <content@ladieslearningcode.com>.
 
 # Girls Learning Code : Programmation en Ruby
 
-## Liens vers les ressources (liens en anglais) :
+## Liens vers les ressources :
 
 Aperçu des notes du formateur : <a href="https://ladieslearningcode.github.io/glc-programming-with-ruby/notes-fr.html">ladieslearningcode.github.io/glc-programming-with-ruby/notes-fr.html</a>
 
